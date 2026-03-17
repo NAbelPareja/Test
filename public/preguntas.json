@@ -1,0 +1,92 @@
+[
+  {
+    "pregunta": "¿Cuál es el mamífero más grande del mundo?",
+    "opciones": [
+      "A) Elefante africano",
+      "B) Ballena azul",
+      "C) Tiburón blanco"
+    ],
+    "respuestaCorrecta": "B) Ballena azul"
+  },
+  {
+    "pregunta": "¿Cuál es la sustancia más dura del planeta?",
+    "opciones": [
+      "A) Acero",
+      "B) Cobre",
+      "C) Diamante"
+    ],
+    "respuestaCorrecta": "C) Diamante"
+  },
+  {
+    "pregunta": "¿Qué pigmento permite a las plantas hacer la fotosíntesis?",
+    "opciones": [
+      "A) Melamina",
+      "B) Clorofila",
+      "C) Hemoglobina"
+    ],
+    "respuestaCorrecta": "B) Clorofila"
+  },
+  {
+    "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "opciones": [
+      "A) 206",
+      "B) 300",
+      "C) 150"
+    ],
+    "respuestaCorrecta": "A) 206"
+  },
+  {
+    "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+    "opciones": [
+      "A) 1492",
+      "B) 1500",
+      "C) 1488"
+    ],
+    "respuestaCorrecta": "A) 1492"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": [
+      "A) Nilo",
+      "B) Amazonas",
+      "C) Misisipi"
+    ],
+    "respuestaCorrecta": "B) Amazonas"
+  },
+  {
+    "pregunta": "¿Dónde se originaron los Juegos Olímpicos?",
+    "opciones": [
+      "A) Roma",
+      "B) Egipto",
+      "C) Grecia"
+    ],
+    "respuestaCorrecta": "C) Grecia"
+  },
+  {
+    "pregunta": "¿Cuál es el país más grande del mundo?",
+    "opciones": [
+      "A) Canadá",
+      "B) Rusia",
+      "C) China"
+    ],
+    "respuestaCorrecta": "B) Rusia"
+  },
+  {
+    "pregunta": "¿Quién pintó la \"Gioconda\" (Mona Lisa)?",
+    "opciones": [
+      "A) Vincent van Gogh",
+      "B) Pablo Picasso",
+      "C) Leonardo da Vinci"
+    ],
+    "respuestaCorrecta": "C) Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿Quién escribió \"El Quijote\"?",
+    "opciones": [
+      "A) Federico García Lorca",
+      "B) Miguel de Cervantes",
+      "C) Gabriel García Márquez"
+    ],
+    "respuestaCorrecta": "B) Miguel de Cervantes"
+  }
+]
