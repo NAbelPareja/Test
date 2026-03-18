@@ -1,7 +1,4 @@
 
-https://testculturag.netlify.app/
-
-
 # 🧠 Quiz App
 
 Aplicación web de preguntas tipo quiz desarrollada con Angular.
@@ -40,3 +37,7 @@ npm install
 ```bash
 ng serve
 ```
+## 🔗 Enlaces
+
+- **GitHub Repository:** https://github.com/NAbelPareja/Test
+- **Live Demo:** https://testculturag.netlify.app/
