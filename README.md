@@ -38,8 +38,6 @@ npm install
 ng serve
 ```
 
-## project page URL
-
-https://testculturag.netlify.app/
+project URL: https://testculturag.netlify.app/
 
 
