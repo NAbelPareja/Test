@@ -37,7 +37,6 @@ npm install
 ```bash
 ng serve
 ```
-## 🔗 Enlaces
+Project URL
 
-- **GitHub Repository:** https://github.com/NAbelPareja/Test
-- **Live Demo:** https://testculturag.netlify.app/
+https://testculturag.netlify.app/
