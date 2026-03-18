@@ -36,7 +36,7 @@ npm install
 ```bash
 ng serve
 ```
-## 🌐 Demo del proyecto
+## 🌐 proyect URL
 
 https://testculturag.netlify.app/
 
